@@ -25,7 +25,7 @@ vanguard-ab-test/
 ├── notebook.ipynb               # full analysis: cleaning, EDA, KPIs, hypothesis tests, evaluation
 ├── images/
 │   └──                          # images used in Tableau dashboard
-├── Project_2.twbx               # interactive Tableau dashboard
+├── vanguard-ab-test.twbx               # interactive Tableau dashboard
 ├── requirements.txt
 └── README.md
 ```
@@ -95,7 +95,7 @@ Completion rate is the primary decision metric, and the new design clears both t
 
 ## Tableau Dashboard
 
-`tableau/Project2.twbx` — completion rate, time per step, and error rate by Test/Control, with filters for demographics (age group, gender).
+`vanguard-ab-test.twbx` — completion rate, time per step, and error rate by Test/Control, with filters for demographics (age group, gender).
 
 ## Kanban board
 
