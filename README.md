@@ -96,8 +96,11 @@ Completion rate is the primary decision metric, and the new design clears both t
 
 ## Tableau Dashboard
 
-`tableau/Project_2.twbx` — completion rate, time per step, and error rate by Test/Control, with filters for demographics (age group, gender).
+`tableau/Project2.twbx` — completion rate, time per step, and error rate by Test/Control, with filters for demographics (age group, gender).
 
+## Kanban board
+
+[Link to the Kanban board](https://trello.com/invite/b/6a647cca0830d1f2d26fc5d1/ATTI6a12a8ff0a14855559ff691d5aab3c8bB2B0345A/project-overview)
 
 ## Tech Stack
 
