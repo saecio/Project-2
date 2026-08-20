@@ -22,8 +22,7 @@ Vanguard's Customer Experience team ran an A/B test on their client-facing onlin
 vanguard-ab-test/
 ├── data/
 │   └── raw/                     # raw source .txt files (not committed — see .gitignore)
-├── notebooks/
-│   └── EDA.ipynb                # full analysis: cleaning, EDA, KPIs, hypothesis tests, evaluation
+├── notebook.ipynb               # full analysis: cleaning, EDA, KPIs, hypothesis tests, evaluation
 ├── images/
 │   └──                          # images used in Tableau dashboard
 ├── Project_2.twbx               # interactive Tableau dashboard
@@ -47,7 +46,7 @@ Source: *[Link](https://github.com/data-bootcamp-v4/lessons/tree/main/5_6_eda_in
 
 ```bash
 pip install -r requirements.txt
-jupyter notebook notebooks/EDA.ipynb
+jupyter notebook notebook.ipynb
 ```
 
 ## Methodology
